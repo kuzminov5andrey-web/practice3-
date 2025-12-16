@@ -1,0 +1,11 @@
+{
+    "program": [
+      { "opcode": "LOAD_CONST", "fields": { "A": 100, "B": 170, "C": 500 } },
+      { "opcode": "BITREVERSE", "fields": { "A": 77, "B": 501, "C": 500 } },
+      { "opcode": "LOAD_CONST", "fields": { "A": 100, "B": 255, "C": 502 } },
+      { "opcode": "BITREVERSE", "fields": { "A": 77, "B": 503, "C": 502 } },
+      { "opcode": "LOAD_CONST", "fields": { "A": 100, "B": 1, "C": 504 } },
+      { "opcode": "BITREVERSE", "fields": { "A": 77, "B": 505, "C": 504 } }
+    ]
+  }
+  
