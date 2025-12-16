@@ -1,0 +1,21 @@
+{
+    "program": [
+      {
+        "opcode": "LOAD_CONST",
+        "fields": { "A": 100, "B": 659, "C": 12 }
+      },
+      {
+        "opcode": "READ_MEM",
+        "fields": { "A": 110, "B": 754, "C": 148, "D": 18 }
+      },
+      {
+        "opcode": "WRITE_MEM",
+        "fields": { "A": 109, "B": 514, "C": 191, "D": 938 }
+      },
+      {
+        "opcode": "BITREVERSE",
+        "fields": { "A": 77, "B": 450, "C": 811 }
+      }
+    ]
+  }
+  
