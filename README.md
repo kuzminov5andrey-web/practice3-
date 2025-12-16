@@ -11,4 +11,8 @@
 }
 
 ## Использование
+Этап 1
 python asm.py input.json output.bin --test --text
+Этап 2
+python interpreter.py array_copy.json memory_dump.json 90 210
+
