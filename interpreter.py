@@ -3,7 +3,7 @@ import json
 import sys
 
 if len(sys.argv) != 5:
-    print("Использование: python interpreter.py program.json dump.json start end")
+    print("Использование: python interpreter.py bitreverse_test.json bitreverse_dump.json 495 510")
     sys.exit(1)
 
 program_file = sys.argv[1]
