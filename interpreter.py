@@ -3,7 +3,7 @@ import json
 import sys
 
 if len(sys.argv) != 5:
-    print("Использование: python interpreter_stage3.py program.json dump.json start end")
+    print("Использование: python interpreter.py program.json dump.json start end")
     sys.exit(1)
 
 program_file = sys.argv[1]
