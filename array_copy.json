@@ -1,0 +1,48 @@
+{
+    "program": [
+      {
+        "opcode": "LOAD_CONST",
+        "fields": {"A": 100, "B": 100, "C": 0}
+      },
+      {
+        "opcode": "LOAD_CONST",
+        "fields": {"A": 100, "B": 1, "C": 100}
+      },
+      {
+        "opcode": "LOAD_CONST",
+        "fields": {"A": 100, "B": 2, "C": 101}
+      },
+      {
+        "opcode": "LOAD_CONST",
+        "fields": {"A": 100, "B": 3, "C": 102}
+      },
+      {
+        "opcode": "LOAD_CONST",
+        "fields": {"A": 100, "B": 4, "C": 103}
+      },
+      {
+        "opcode": "LOAD_CONST",
+        "fields": {"A": 100, "B": 5, "C": 104}
+      },
+      {
+        "opcode": "READ_MEM",
+        "fields": {"A": 110, "B": 0, "C": 0, "D": 200}
+      },
+      {
+        "opcode": "READ_MEM",
+        "fields": {"A": 110, "B": 1, "C": 0, "D": 201}
+      },
+      {
+        "opcode": "READ_MEM",
+        "fields": {"A": 110, "B": 2, "C": 0, "D": 202}
+      },
+      {
+        "opcode": "READ_MEM",
+        "fields": {"A": 110, "B": 3, "C": 0, "D": 203}
+      },
+      {
+        "opcode": "READ_MEM",
+        "fields": {"A": 110, "B": 4, "C": 0, "D": 204}
+      }
+    ]
+  }
